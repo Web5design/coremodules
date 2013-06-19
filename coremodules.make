@@ -63,7 +63,7 @@ projects[imageapi][version] = "1.x-dev"
 
 projects[insert][type] = module
 projects[insert][download][type] = git
-projects[insert][download][branch] = 7.x-1.3
+projects[insert][download][branch] = 7.x-1.x
 projects[insert][subdir] = contrib
 
 projects[jquery_plugin][subdir] = "contrib"
@@ -131,7 +131,8 @@ projects[transliteration][version] = 3.1
 projects[transliteration][subdir] = contrib
 
 projects[xmlsitemap][type] = module
-projects[xmlsitemap][version] = 2.x-dev
+projects[xmlsitemap][download][type] = git
+projects[xmlsitemap][download][branch] = 7.x-2.x
 projects[xmlsitemap][subdir] = contrib
 
 projects[fallback_language_negotation][type] = module
