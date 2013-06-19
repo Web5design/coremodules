@@ -1,4 +1,4 @@
-name = Core Modules
+name = Core Modules CPO
 description = The magical core, that will activate useful modules.
 core = 7.x
 package = Custom
