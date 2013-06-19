@@ -1,0 +1,15 @@
+name = Core Modules
+description = The magical core, that will activate useful modules.
+core = 7.x
+package = Custom
+php = 5.2.4
+project = coremodules
+
+dependencies[] = ds
+dependencies[] = multiform
+dependencies[] = metatag
+dependencies[] = transliteration
+dependencies[] = xmlsitemap
+dependencies[] = l10n_pconfig
+dependencies[] = l10n_update
+
