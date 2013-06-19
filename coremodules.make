@@ -61,8 +61,8 @@ projects[filter_perms][version] = "1.0"
 projects[imageapi][subdir] = "contrib"
 projects[imageapi][version] = "1.x-dev"
 
-projects[insert][subdir] = "contrib"
-projects[insert][version] = "1.3"
+;projects[insert][subdir] = "contrib"
+;projects[insert][version] = "1.3"
 
 projects[jquery_plugin][subdir] = "contrib"
 projects[jquery_plugin][version] = "1.0"
@@ -128,8 +128,11 @@ projects[transliteration][type] = module
 projects[transliteration][version] = 3.1
 projects[transliteration][subdir] = contrib
 
+projects[xmlsitemap][type] = "module"
+projects[xmlsitemap][download][type] = 'git'
+projects[xmlsitemap][download][url] = 'http://git.drupal.org/project/xmlsitemap.git'
+projects[xmlsitemap][download][branch] = "7.x-2.x"
 projects[xmlsitemap][subdir] = contrib
-projects[xmlsitemap][version] = "2.0-rc2"
 
 ; Translation
 
