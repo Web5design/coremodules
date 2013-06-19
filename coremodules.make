@@ -129,7 +129,7 @@ projects[transliteration][version] = 3.1
 projects[transliteration][subdir] = contrib
 
 projects[xmlsitemap][type] = module
-projects[xmlsitemap][download][branch] = 2.0-rc2
+projects[xmlsitemap][version] = 2.0-rc2
 projects[xmlsitemap][subdir] = contrib
 
 projects[fallback_language_negotation][type] = module
