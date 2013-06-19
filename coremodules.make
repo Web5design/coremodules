@@ -61,8 +61,10 @@ projects[filter_perms][version] = "1.0"
 projects[imageapi][subdir] = "contrib"
 projects[imageapi][version] = "1.x-dev"
 
+projects[insert][type] = module
+projects[insert][download][type] = git
+projects[insert][download][branch] = 7.x-1.3
 projects[insert][subdir] = contrib
-projects[insert][version] = 1.3
 
 projects[jquery_plugin][subdir] = "contrib"
 projects[jquery_plugin][version] = "1.0"
