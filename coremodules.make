@@ -126,6 +126,12 @@ projects[wysiwyg][version] = "2.2"
 projects[relation][subdir] = "contrib"
 projects[relation][version] = "1.0-rc4"
 
+projects[redirect][subdir] = contrib
+projects[redirect][version] = 1.0-rc1
+
+projects[elements][subdir] = contrib
+projects[elements][version] = 1.4
+
 projects[transliteration][type] = module
 projects[transliteration][version] = 3.1
 projects[transliteration][subdir] = contrib
