@@ -132,6 +132,18 @@ projects[redirect][version] = 1.0-rc1
 projects[elements][subdir] = contrib
 projects[elements][version] = 1.4
 
+projects[views_tree][subdir] = contrib
+projects[views_tree][version] = 2.0
+
+projects[relation][subdir] = contrib
+projects[relation][version] = 1.0-rc4
+
+projects[wysiwyg][subdir] = contrib
+projects[wysiwig][version] = 2.2
+
+projects[linkit][version] = 2.6
+projects[linkit][subdir] = contrib
+
 projects[transliteration][type] = module
 projects[transliteration][version] = 3.1
 projects[transliteration][subdir] = contrib
@@ -166,3 +178,8 @@ projects[shiny][type] = theme
 projects[shiny][download][type] = git
 projects[shiny][download][branch] = 7.x-1.1
 
+
+; Libraries
+
+libraries[tinymce][download][type] = get
+libraries[tinymce][download][url] = http://download.moxiecode.com/tinymce/tinymce_3.5.8.zip
