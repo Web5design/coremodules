@@ -24,7 +24,7 @@ projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.3"
 
 projects[backup_migrate][type] = module
-projects[backup_migrate][version] = 2.5
+projects[backup_migrate][version] = 2.7
 projects[backup_migrate][subdir] = contrib
 
 projects[ds][type] = module
