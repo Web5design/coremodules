@@ -139,7 +139,7 @@ projects[relation][subdir] = contrib
 projects[relation][version] = 1.0-rc4
 
 projects[wysiwyg][subdir] = contrib
-projects[wysiwig][version] = 2.2
+projects[wysiwyg][version] = 2.2
 
 projects[linkit][version] = 2.6
 projects[linkit][subdir] = contrib

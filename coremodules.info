@@ -57,3 +57,4 @@ dependencies[] = l10n_pconfig
 dependencies[] = uuid
 dependencies[] = link
 dependencies[] = linkit
+dependencies[] = wysiwyg
