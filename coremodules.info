@@ -58,3 +58,4 @@ dependencies[] = uuid
 dependencies[] = link
 dependencies[] = linkit
 dependencies[] = wysiwyg
+dependencies[] = editorsettings
