@@ -153,10 +153,11 @@ projects[xmlsitemap][download][type] = git
 projects[xmlsitemap][download][branch] = 7.x-2.x
 projects[xmlsitemap][subdir] = contrib
 
-projects[fallback_language_negotation][type] = module
-projects[fallback_language_negotation][download][type] = git
-projects[fallback_language_negotation][download][branch] = 7.x-1.x
-projects[fallback_language_negotation][subdir] = contrib
+projects[fallback_language_negotiation][type] = module
+projects[fallback_language_negotiation][download][type] = git
+projects[fallback_language_negotiation][download][branch] = 7.x-1.x
+projects[fallback_language_negotiation][download][url]= http://git.drupal.org/project/fallback_language_negotation.git
+projects[fallback_language_negotiation][subdir] = contrib
 
 projects[language_fallback_settings][type] = module
 projects[language_fallback_settings][download][type] = git
