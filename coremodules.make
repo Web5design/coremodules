@@ -164,6 +164,12 @@ projects[language_fallback_settings][download][branch] = 7.x-1.0-dev
 projects[language_fallback_settings][download][url]= git://github.com/Helrunar/language_fallback_settings.git
 projects[language_fallback_settings][subdir] = custom
 
+projects[editorsettings][type] = module
+projects[editorsettings][download][type] = git
+projects[editorsettings][download][branch] = 7.x-1.0
+projects[editorsettings][download][url]= git://github.com/Helrunar/editorsettings.git
+projects[editorsettings][subdir] = custom
+
 ; Translation
 
 projects[l10n_client][type] = module
