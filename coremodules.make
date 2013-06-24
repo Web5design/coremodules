@@ -171,6 +171,10 @@ projects[l10n_update][download][type] = git
 projects[l10n_update][download][branch] = 7.x-1.x
 projects[l10n_update][subdir] = l10n
 
+projects[fallback_language_negotation][type] = module
+projects[fallback_language_negotation][download][type] = git
+projects[fallback_language_negotation][download][branch] = 7.x-1.x
+projects[fallback_language_negotation][subdir] = contrib
 
 ; Including Admin-Template
 
