@@ -160,7 +160,7 @@ projects[fallback_language_negotation][subdir] = contrib
 
 projects[language_fallback_settings][type] = module
 projects[language_fallback_settings][download][type] = git
-projects[language_fallback_settings][download][branch] = 7.x-1.x
+projects[language_fallback_settings][download][branch] = 7.x-1.x-dev
 projects[language_fallback_settings][download][url]= git://github.com/Helrunar/language_fallback_settings.git
 projects[language_fallback_settings][subdir] = custom
 
