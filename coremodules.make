@@ -123,8 +123,8 @@ projects[views][version] = "3.7"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
-projects[relation][subdir] = "contrib"
-projects[relation][version] = "1.0-rc4"
+projects[entityreference][subdir] = "contrib"
+projects[entityreference][version] = "1.0"
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.0-rc1
@@ -158,6 +158,12 @@ projects[fallback_language_negotation][download][type] = git
 projects[fallback_language_negotation][download][branch] = 7.x-1.x
 projects[fallback_language_negotation][subdir] = contrib
 
+projects[language_fallback_settings][type] = module
+projects[language_fallback_settings][download][type] = git
+projects[language_fallback_settings][download][branch] = 7.x-1.x
+projects[language_fallback_settings][download][url]= git://github.com/Helrunar/language_fallback_settings.git
+projects[language_fallback_settings][subdir] = custom
+
 ; Translation
 
 projects[l10n_client][type] = module
@@ -171,10 +177,6 @@ projects[l10n_update][download][type] = git
 projects[l10n_update][download][branch] = 7.x-1.x
 projects[l10n_update][subdir] = l10n
 
-projects[fallback_language_negotation][type] = module
-projects[fallback_language_negotation][download][type] = git
-projects[fallback_language_negotation][download][branch] = 7.x-1.x
-projects[fallback_language_negotation][subdir] = contrib
 
 ; Including Admin-Template
 
