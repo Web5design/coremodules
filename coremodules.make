@@ -135,8 +135,8 @@ projects[elements][version] = 1.4
 projects[views_tree][subdir] = contrib
 projects[views_tree][version] = 2.0
 
-projects[relation][subdir] = contrib
-projects[relation][version] = 1.0-rc4
+projects[entityreference_prepopulate][subdir] = contrib
+projects[entityreference_prepopulate][version] = 1.0
 
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.2
