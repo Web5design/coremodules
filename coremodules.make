@@ -1,4 +1,4 @@
-; Panopoly Core Makefile
+; Projekt Waterant Core Makefile
 
 api = 2
 core = 7.x
