@@ -28,14 +28,11 @@ projects[backup_migrate][version] = 2.7
 projects[backup_migrate][subdir] = contrib
 
 projects[ds][type] = module
-projects[ds][version] = 2.2
+projects[ds][version] = 2.4
 projects[ds][subdir] = contrib
 
 projects[devel][subdir] = "developer"
 projects[devel][version] = "1.3"
-
-projects[ds][subdir] = "contrib"
-projects[ds][version] = "1.8"
 
 projects[email][subdir] = "contrib"
 projects[email][version] = "1.2"
@@ -188,8 +185,7 @@ projects[l10n_update][subdir] = l10n
 ; Including Admin-Template
 
 projects[shiny][type] = theme
-projects[shiny][download][type] = git
-projects[shiny][download][branch] = 7.x-1.1
+projects[shiny][version] = 1.3
 
 
 ; Libraries
