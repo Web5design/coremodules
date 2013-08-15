@@ -37,8 +37,10 @@ projects[devel][version] = "1.3"
 projects[email][subdir] = "contrib"
 projects[email][version] = "1.2"
 
-projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.1"
+projects[entity][type] = module
+projects[entity][download][type] = git
+projects[entity][download][branch] = 7.x-1.2
+projects[entity][subdir] = contrib
 
 projects[eva][subdir] = "contrib"
 projects[eva][version] = "1.2"
