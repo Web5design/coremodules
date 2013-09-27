@@ -28,7 +28,7 @@ projects[backup_migrate][version] = 2.7
 projects[backup_migrate][subdir] = contrib
 
 projects[ds][type] = module
-projects[ds][version] = 2.4
+projects[ds][version] = 2.6
 projects[ds][subdir] = contrib
 
 projects[devel][subdir] = "developer"
@@ -46,13 +46,13 @@ projects[eva][subdir] = "contrib"
 projects[eva][version] = "1.2"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.0-rc1"
+projects[features][version] = "2.0-rc3"
 
 projects[field_group][subdir] = "contrib"
-projects[field_group][version] = "1.1"
+projects[field_group][version] = "1.3"
 
 projects[file_entity][subdir] = "contrib"
-projects[file_entity][version] = "2.0-unstable7"
+projects[file_entity][version] = "2.0-alpha2"
 
 projects[filter_perms][subdir] = "contrib"
 projects[filter_perms][version] = "1.0"
@@ -72,7 +72,7 @@ projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "2.3"
 
 projects[media_browser_plus][type] = module
-projects[media_browser_plus][version] = 3.0-beta1
+projects[media_browser_plus][version] = 3.0-beta2
 projects[media_browser_plus][subdir] = contrib
 
 projects[multiform][type] = module
@@ -96,7 +96,7 @@ projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = "2.3"
 
 projects[module_filter][subdir] = "contrib"
-projects[module_filter][version] = "1.7"
+projects[module_filter][version] = "1.8"
 
 projects[panels][subdir] = "contrib"
 projects[panels][version] = "3.3"
@@ -114,7 +114,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
 projects[uuid][subdir] = "contrib"
-projects[uuid][version] = "1.0-alpha4"
+projects[uuid][version] = "1.0-alpha5"
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.7"
